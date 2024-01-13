@@ -1,0 +1,137 @@
+olefile version 0.47 2023-12-01 - https://www.decalage.info/en/olefile
+
+--------------------------------------------------------------------
+emo.doc
+--------------------------------------------------------------------
+'Root Entry' (root) 7808 bytes 
+{00020906-0000-0000-C000-000000000046}
+  '\x01CompObj' (stream) 114 bytes 
+  '\x05DocumentSummaryInformation' (stream) 4096 bytes 
+  '\x05SummaryInformation' (stream) 4096 bytes 
+  '1Table' (stream) 7544 bytes 
+  'Macros' (storage) 
+    'Get4ipjzmjfvp' (storage) 
+      '\x01CompObj' (stream) 97 bytes 
+      '\x03VBFrame' (stream) 296 bytes 
+      'f' (stream) 231 bytes 
+      'o' (stream) 232 bytes 
+    'PROJECT' (stream) 601 bytes 
+    'PROJECTwm' (stream) 134 bytes 
+    'VBA' (storage) 
+      'Dw75ayd2hpcab6' (stream) 1442 bytes 
+      'Get4ipjzmjfvp' (stream) 34177 bytes 
+      'Rk3572j7tam4v8' (stream) 3452 bytes 
+      '_VBA_PROJECT' (stream) 11093 bytes 
+      'dir' (stream) 913 bytes 
+  'WordDocument' (stream) 134771 bytes 
+['\x05DocumentSummaryInformation']: properties
+    1 1252
+    5 443
+    6 124
+    11 False
+    12 [b'Title', 1]
+    13 [b'']
+    15 b''
+    16 False
+    17 62452
+    19 False
+    22 False
+    23 1048576
+['\x05SummaryInformation']: properties
+    1 1252
+    2 b''
+    3 b'Handmade Argentina Handcrafted Frozen Towels yello'
+    4 b''
+    5 b''
+    6 b''
+    7 b'Normal.dotm'
+    8 b''
+    9 b'1'
+    10 1601-01-01 00:00:00
+    12 2020-10-30 23:48:00
+    13 2020-11-03 02:14:00
+    14 1
+    15 9339
+    16 53237
+    18 b'Microsoft Office Word'
+    19 8
+Modification/Creation times of all directory entries:
+- Root Entry: mtime=2020-11-03 02:14:26.013000 ctime=None
+- 1Table: mtime=None ctime=None
+- WordDocument: mtime=None ctime=None
+- SummaryInformation: mtime=None ctime=None
+- DocumentSummaryInformation: mtime=None ctime=None
+- Macros: mtime=2020-11-03 02:14:25.997000 ctime=2020-11-03 02:14:25.982000
+- VBA: mtime=2020-11-03 02:14:25.997000 ctime=2020-11-03 02:14:25.982000
+- Dw75ayd2hpcab6: mtime=None ctime=None
+- Get4ipjzmjfvp: mtime=None ctime=None
+- Rk3572j7tam4v8: mtime=None ctime=None
+- _VBA_PROJECT: mtime=None ctime=None
+- dir: mtime=None ctime=None
+- Get4ipjzmjfvp: mtime=2020-11-03 02:14:25.997000 ctime=2020-11-03 02:14:25.997000
+- f: mtime=None ctime=None
+- o: mtime=None ctime=None
+- CompObj: mtime=None ctime=None
+- VBFrame: mtime=None ctime=None
+- PROJECTwm: mtime=None ctime=None
+- PROJECT: mtime=None ctime=None
+- CompObj: mtime=None ctime=None
+
+Properties from SummaryInformation stream:
+- codepage: 1252
+- title: b''
+- subject: b'Handmade Argentina Handcrafted Frozen Towels yellow Frozen virtual Guatemala array Lesotho JBOD'
+- author: b''
+- keywords: b''
+- comments: b''
+- template: b'Normal.dotm'
+- last_saved_by: b''
+- revision_number: b'1'
+- total_edit_time: 0
+- last_printed: None
+- create_time: datetime.datetime(2020, 10, 30, 23, 48)
+- last_saved_time: datetime.datetime(2020, 11, 3, 2, 14)
+- num_pages: 1
+- num_words: 9339
+- num_chars: 53237
+- thumbnail: None
+- creating_application: b'Microsoft Office Word'
+- security: 8
+Properties from DocumentSummaryInformation stream:
+- codepage_doc: 1252
+- category: None
+- presentation_target: None
+- bytes: None
+- lines: 443
+- paragraphs: 124
+- slides: None
+- notes: None
+- hidden_slides: None
+- mm_clips: None
+- scale_crop: False
+- heading_pairs: [b'Title', 1]
+- titles_of_parts: [b'']
+- manager: None
+- company: b''
+- links_dirty: False
+- chars_with_spaces: 62452
+- unused: None
+- shared_doc: False
+- link_base: None
+- hlinks: None
+- hlinks_changed: False
+- version: 1048576
+- dig_sig: None
+- content_type: None
+- content_status: None
+- language: None
+- doc_version: None
+
+Root entry name: "Root Entry"
+This is a Word document.
+type of stream 'WordDocument': 2
+size : 134771
+This document may contain VBA macros.
+
+Non-fatal issues raised during parsing:
+None

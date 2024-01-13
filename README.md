@@ -10,10 +10,14 @@ Digital forensics starts with the collection of information in a way that mainta
     
     You need no prerequisite to start this pathway! Just enthusiasm and excitement to learn! 
 
-## Summary
+## Challenges
 
 - [Easy - Diagnostic](Diagnostic/Diagnostic.md)
 
 - [Easy - Obscure](Obscure/Obscure.md)
 
 - [Easy - Reminiscent](Reminiscent/Reminiscent.md)
+
+- [Easy - Emo](./emo/emo.md)
+
+- [Medium - RedTrails](./RedTrails/redtrails.md)
