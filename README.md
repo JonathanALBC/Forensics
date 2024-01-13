@@ -14,12 +14,6 @@ Digital forensics starts with the collection of information in a way that mainta
 
 - [Easy - Diagnostic](Diagnostic/Diagnostic.md)
 
-      Medium Boot2Root with a twist. Review your privesc skills before attacking the main course.
-
 - [Easy - Obscure](Obscure/Obscure.md)
 
-      Exploit of common services FTP, NFS, SMB, RSYNC ... with SSH Tunneling
-
 - [Easy - Reminiscent](Reminiscent/Reminiscent.md)
-
-      Advanced exploitation with reverse port forwarding and custom privesc
