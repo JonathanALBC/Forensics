@@ -7,8 +7,6 @@ Computer forensics is the application of investigation and analysis techniques t
 Computer forensics, which is sometimes referred to as computer forensic science, essentially is data recovery with legal compliance guidelines to make the information admissible in legal proceedings.
 
 Digital forensics starts with the collection of information in a way that maintains its integrity. Investigators then analyze the data or system to determine if it was changed, how it was changed and who made the changes. The use of computer forensics isn't always tied to a crime. The forensic process is also used as part of data recovery processes to gather data from a crashed server, failed drive, reformatted operating system (OS) or other situation where a system has unexpectedly stopped working.
-
-</br>
     
     You need no prerequisite to start this pathway! Just enthusiasm and excitement to learn! 
 
