@@ -18,10 +18,10 @@ Digital forensics starts with the collection of information in a way that mainta
 
       Medium Boot2Root with a twist. Review your privesc skills before attacking the main course.
 
-- [Medium - SSH Tunneling](Medium/README.md)
+- [Easy - Obscure](Obscure/Obscure.md)
 
       Exploit of common services FTP, NFS, SMB, RSYNC ... with SSH Tunneling
 
-- [Advanced - Proxying, Tunneling for real this time](Advanced/README.md)
+- [Easy - Reminiscent](Reminiscent/Reminiscent.md)
 
       Advanced exploitation with reverse port forwarding and custom privesc
